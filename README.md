@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently seeking an internship in **data science, IA or image processing.**
 
-- 🌱 I’m currently learning **Deep Learning and advanced image processing.**
+- 🌱 I’m currently learning **Data Science, Deep Learning and advanced image processing.**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/nathan-houel](www.linkedin.com/in/nathan-houel)
 
