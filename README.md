@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nathan Houel</h1>
 <h3 align="center">A passionate student in data science, image processing and IA from France</h3>
 
-- 🔭 I’m currently seeking an internship in **data science, IA or image processing.**
+- 🔭 I’m currently seeking an internship in **data science, IA or computer vision.**
 
-- 🌱 I’m currently learning **Data Science, Deep Learning and advanced image processing.**
+- 🌱 I’m currently learning **Data Science, Deep Learning and computer vision.**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/nathan-houel](www.linkedin.com/in/nathan-houel)
 
