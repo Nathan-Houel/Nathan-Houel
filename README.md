@@ -8,7 +8,7 @@
 
 </div>
 
-Engineer specialized in Data Science, Machine Learning and Computer Vision.
+Engineer specialized in **Data Science**, **Machine Learning** and **Computer Vision**.
 I enjoy turning complex data into insights, models and visualizations that
 help understand and improve real-world systems.
 
